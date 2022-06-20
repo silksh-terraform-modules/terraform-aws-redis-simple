@@ -22,6 +22,6 @@ variable "parameter_group_name" {
   default = "default.redis6.x"
 }
 
-variabel "num_cache_nodes" {
+variable "num_cache_nodes" {
   default = 1
 }
